@@ -106,20 +106,20 @@ int main()
     //     i++;
     //     cout << endl;
     // }
-    int n;
-    cin >> n;
+    // int n;
+    // cin >> n;
 
-    int i = 1;
+    // int i = 1;
 
-    while (i <= n)
-    {
-        int j = 1;
-        while (j <= n)
-        {
-            cout << i;
-            j++;
-        }
-        i++;
-        cout << "\n";
-    }
+    // while (i <= n)
+    // {
+    //     int j = 1;
+    //     while (j <= n)
+    //     {
+    //         cout << i;
+    //         j++;
+    //     }
+    //     i++;
+    //     cout << "\n";
+    // }
 }
